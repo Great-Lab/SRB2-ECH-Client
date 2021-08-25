@@ -4,7 +4,6 @@
 <br>
 <a href="https://github.com/Great-Lab/SRB2-ECH-Client/releases/download/tag/ECH/ECH.Client.zip"><img src="https://img.shields.io/github/downloads/Great-Lab/SRB2-ECH-Client/ECH/total?color=lightblue&label=Download%20Client&logo=github&logoColor=lightblue&style=for-the-badge" alt="download"></img></a>
 <a href="https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCL3XW3JfhRCZpeHJOFAV56Q?color=white&label=youtube&logo=youtube&logoColor=white&style=for-the-badge" alt="youtube"></img></a>
-<a href="https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCL3XW3JfhRCZpeHJOFAV56Q?color=white&label=youtube&logo=youtube&logoColor=white&style=for-the-badge" alt="youtube"></img></a>
 </p>
 <hr/>
 <h1>About</h1>
